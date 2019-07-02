@@ -11,3 +11,16 @@ D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\DataL
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.Properties.Resources.resources
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.GenerateResource.cache
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\DataLayer\bin\Debug\netcoreapp2.2\CSVInfo\OurPropertis.CSV
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\bin\Debug\netcoreapp2.2\CSVInfo\OurAddresses.CSV
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\bin\Debug\netcoreapp2.2\CSVInfo\OurPropertis.CSV
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csprojAssemblyReference.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.Properties.Resources.resources
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.GenerateResource.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb

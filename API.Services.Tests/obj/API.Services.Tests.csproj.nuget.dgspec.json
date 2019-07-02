@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj": {}
+    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj": {
+    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj",
+        "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj",
         "projectName": "API.Objects",
-        "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj",
+        "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj",
         "packagesPath": "C:\\Users\\PeterPlay\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\obj\\",
+        "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj": {
+    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj",
+        "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj",
         "projectName": "API.Services.Tests",
-        "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj",
+        "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj",
         "packagesPath": "C:\\Users\\PeterPlay\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\obj\\",
+        "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj": {
-                "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj"
+              "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj": {
+                "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj": {
+    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj",
+        "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj",
         "projectName": "API.Service",
-        "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj",
+        "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj",
         "packagesPath": "C:\\Users\\PeterPlay\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\obj\\",
+        "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -154,8 +154,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj": {
-                "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj"
+              "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj": {
+                "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj"
               }
             }
           }

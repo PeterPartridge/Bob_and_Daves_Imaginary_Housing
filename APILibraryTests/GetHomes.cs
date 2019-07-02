@@ -1,3 +1,4 @@
+using API.Objects.ConcreteClasses;
 using API.Objects.Interfaces;
 using API.Service;
 using API.Service.Interfaces;
@@ -13,7 +14,8 @@ namespace APILibraryTests
         private IFindProperty _findProperty;
         public GetHomes()
         {
-            _findProperty = new CSVService();
+            CSVAppSettings cSVApp = new CSVAppSettings();
+            _findProperty = new CSVService(cSVApp );
         }
 
         [Fact]

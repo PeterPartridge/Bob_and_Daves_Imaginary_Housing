@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\DataLayer.csproj",
+      "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\PeterPlay\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\obj\\",
+      "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

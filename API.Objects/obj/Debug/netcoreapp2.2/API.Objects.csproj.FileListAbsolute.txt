@@ -7,3 +7,12 @@ D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\API.O
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.Objects.AssemblyInfo.cs
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.Objects.dll
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.Objects.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\bin\Debug\netcoreapp2.2\API.Objects.deps.json
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\bin\Debug\netcoreapp2.2\API.Objects.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\bin\Debug\netcoreapp2.2\API.Objects.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.Objects.csprojAssemblyReference.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.Objects.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.Objects.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.Objects.AssemblyInfo.cs
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.Objects.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.Objects.pdb

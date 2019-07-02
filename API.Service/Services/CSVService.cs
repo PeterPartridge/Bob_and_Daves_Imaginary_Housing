@@ -12,6 +12,12 @@ namespace API.Service
 {
     public class CSVService : IFindProperty
     {
+        private CSVAppSettings _appSettings;
+
+        public CSVService(CSVAppSettings appSettings)
+        {
+            _appSettings = appSettings;
+        }
         public IBaseProperty GetBaseProperty(Guid propertyId)
         {
             IEnumerable<IBaseProperty> mappedPropeties = GetBaseProperties();
@@ -25,12 +31,12 @@ namespace API.Service
         public IEnumerable<IBaseProperty> GetBaseProperties()
         {
             
-            string[] propertyCSV = CSVHelper.ReadCSVFile("OurPropertis.CSV");
+            string[] propertyCSV = CSVHelper.ReadCSVFile(_appSettings.PropertyCSVFilePath);
             return CSVHelper.MapPropertyCSVToObject(propertyCSV).ToList();
         }
         public IEnumerable<IAddress> GetAddresses()
         {
-            string[] addressCSV = CSVHelper.ReadCSVFile("OurAddresses.CSV");
+            string[] addressCSV = CSVHelper.ReadCSVFile(_appSettings.AddressCSVFilePath);
             return CSVHelper.MapAddressCSVToObject(addressCSV);
         }
        

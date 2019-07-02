@@ -19,3 +19,9 @@ D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\APILi
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\APILibraryTests\bin\Debug\netcoreapp2.2\API.Objects.pdb
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\APILibraryTests\bin\Debug\netcoreapp2.2\API.Service.pdb
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\APILibraryTests\obj\Debug\netcoreapp2.2\APILibrary.Test.csproj.CopyComplete
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibraryTests\obj\Debug\netcoreapp2.2\APILibrary.Test.csprojAssemblyReference.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibraryTests\obj\Debug\netcoreapp2.2\APILibrary.Test.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibraryTests\obj\Debug\netcoreapp2.2\APILibrary.Test.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibraryTests\obj\Debug\netcoreapp2.2\APILibrary.Test.AssemblyInfo.cs
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibraryTests\obj\Debug\netcoreapp2.2\APILibrary.Test.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibraryTests\obj\Debug\netcoreapp2.2\APILibrary.Test.pdb

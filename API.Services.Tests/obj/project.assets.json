@@ -6014,11 +6014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj",
+      "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj",
       "projectName": "API.Services.Tests",
-      "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj",
+      "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\API.Services.Tests.csproj",
       "packagesPath": "C:\\Users\\PeterPlay\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\obj\\",
+      "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Services.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6037,8 +6037,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj": {
-              "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj"
+            "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj": {
+              "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj"
             }
           }
         }

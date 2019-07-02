@@ -18,7 +18,9 @@ namespace APILibrary
     {
         public Startup(IConfiguration configuration)
         {
+
             Configuration = configuration;
+            
         }
 
         public IConfiguration Configuration { get; }
@@ -26,9 +28,11 @@ namespace APILibrary
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);           
             services.AddScoped<IBaseProperty, BaseProperty>();
             services.AddScoped<IFindProperty, CSVService>();
+            //adding app details through dependancy injection           
+            services.AddSingleton(Configuration.GetSection("CSVData").Get<CSVAppSettings>());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

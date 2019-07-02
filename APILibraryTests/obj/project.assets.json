@@ -6956,11 +6956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\APILibraryTests\\APILibrary.Test.csproj",
+      "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\APILibraryTests\\APILibrary.Test.csproj",
       "projectName": "APILibrary.Test",
-      "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\APILibraryTests\\APILibrary.Test.csproj",
+      "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\APILibraryTests\\APILibrary.Test.csproj",
       "packagesPath": "C:\\Users\\PeterPlay\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\APILibraryTests\\obj\\",
+      "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\APILibraryTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6979,8 +6979,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\APILibrary\\APILibrary.csproj": {
-              "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\APILibrary\\APILibrary.csproj"
+            "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\APILibrary\\APILibrary.csproj": {
+              "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\APILibrary\\APILibrary.csproj"
             }
           }
         }
