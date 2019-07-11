@@ -18,14 +18,14 @@ namespace APILibrary.Controllers
            _findProperty = findProperty;
         }
 
-        [HttpGet (("{id}"),Name ="GetProperty")]
-        public ActionResult<IBaseProperty> GetProperty(Guid propertyId)
+        [HttpGet ("{id}", Name ="GetProperty")]
+        public ActionResult<IBaseProperty> GetProperty(Guid id)
         {
-            if (propertyId == null)
+            if (id == null)
             {
                 return BadRequest();
             }
-           IBaseProperty baseProperty =  _findProperty.GetBaseProperty(propertyId);
+           IBaseProperty baseProperty =  _findProperty.GetBaseProperty(id);
             if (baseProperty == null)
             {
                 return BadRequest("Unkown property id");

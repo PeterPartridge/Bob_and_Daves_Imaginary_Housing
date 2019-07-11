@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace APILibrary.Controllers
 {
+    [Route("api/Address")]
     public class AddressController : Controller
     {
         private IFindAddress _findAddress;
@@ -26,15 +27,14 @@ namespace APILibrary.Controllers
             }
             return Ok(addresses);
         }
-        [HttpGet(Name ="FindAddresses")]
-        public ActionResult<IAddress> GetAddress(Guid addressId)
+        [HttpGet("{id}", Name = "FindAddress")]
+        public ActionResult<IAddress> GetAddress(Guid id)
         {
-           
-            if (addressId == null)
+            if (id == null)
             {
                 return BadRequest();
             }
-            IAddress address = _findAddress.GetAddress(addressId);
+            IAddress address = _findAddress.GetAddress(id);
             if (address == null)
             {
                 return BadRequest("Unkown address id");
