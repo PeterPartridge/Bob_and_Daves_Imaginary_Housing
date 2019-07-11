@@ -9,10 +9,10 @@ using Xunit;
 
 namespace API.Services.Tests
 {
-    public class CSV_Tests
+    public class CSV_Tests_Property
     {
         private IFindProperty _findProperty;
-        public CSV_Tests()
+        public CSV_Tests_Property()
         {
             CSVAppSettings cSVApp = new CSVAppSettings();
             _findProperty = new CSVService(cSVApp);
@@ -35,11 +35,6 @@ namespace API.Services.Tests
             IEnumerable<IBaseProperty> results = _findProperty.GetBaseProperties();
             Assert.NotEmpty(results);
         }
-        [Fact]
-        public void CSVService_GetAddresses_ReturnsAListOfAddresses()
-        { 
-            IEnumerable<IAddress> addresses = _findProperty.GetAddresses();
-            Assert.NotEmpty(addresses);
-        }
+   
     }
 }

@@ -10,7 +10,7 @@ using System.Linq;
 
 namespace API.Service
 {
-    public class CSVService : IFindProperty
+    public class CSVService : IFindProperty, IFindAddress
     {
         private CSVAppSettings _appSettings;
 

@@ -5,11 +5,10 @@ using System.Text;
 
 namespace API.Service.Interfaces
 {
-   public interface IFindProperty
+    public interface IFindAddress
     {
-        IBaseProperty GetBaseProperty(Guid propertyId);
-
-        IEnumerable<IBaseProperty> GetBaseProperties();
+        IAddress GetAddress(Guid AddressId);
+        IEnumerable<IAddress> GetAddresses();
 
     }
 }

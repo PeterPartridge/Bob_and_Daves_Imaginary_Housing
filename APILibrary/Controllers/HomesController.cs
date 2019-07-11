@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace APILibrary.Controllers
 {
-    [Route("api/Homes")]
+    [Route("api/Property")]
     [ApiController]
     public class HomesController : ControllerBase
     {
@@ -17,8 +17,8 @@ namespace APILibrary.Controllers
         {
            _findProperty = findProperty;
         }
-        // GET api/values
-        [HttpGet (Name ="GetProperty")]
+
+        [HttpGet (("{id}"),Name ="GetProperty")]
         public ActionResult<IBaseProperty> GetProperty(Guid propertyId)
         {
             if (propertyId == null)
@@ -32,6 +32,17 @@ namespace APILibrary.Controllers
             }
            return Ok(baseProperty);
         }
+        [HttpGet(Name = "GetProperties")]
+        public ActionResult<IEnumerable<IBaseProperty>> GetAddresses()
+        {
+            IEnumerable<IBaseProperty> addresses = _findProperty.GetBaseProperties();
+            if (addresses.Count() == 0)
+            {
+                return BadRequest("Unable to find addresses");
+            }
+            return Ok(addresses);
+        }
+
 
     }
 }

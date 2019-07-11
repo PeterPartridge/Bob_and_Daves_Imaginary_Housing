@@ -30,7 +30,7 @@ namespace APILibrary
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);           
             services.AddScoped<IBaseProperty, BaseProperty>();
-            services.AddScoped<IFindProperty, CSVService>();
+            services.AddScoped<IFindAddress, CSVService>();
             //adding app details through dependancy injection           
             services.AddSingleton(Configuration.GetSection("CSVData").Get<CSVAppSettings>());
         }
