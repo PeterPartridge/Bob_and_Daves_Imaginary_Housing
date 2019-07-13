@@ -7,15 +7,18 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 
 namespace API.Service
 {
     public class CSVService : IFindProperty, IFindAddress
     {
+  
         private CSVAppSettings _appSettings;
 
         public CSVService(CSVAppSettings appSettings)
         {
+   
             _appSettings = appSettings;
         }
         public IBaseProperty GetBaseProperty(Guid propertyId)
@@ -39,7 +42,6 @@ namespace API.Service
             string[] addressCSV = CSVHelper.ReadCSVFile(_appSettings.AddressCSVFilePath);
             return CSVHelper.MapAddressCSVToObject(addressCSV);
         }
-       
-       
+              
     }
 }

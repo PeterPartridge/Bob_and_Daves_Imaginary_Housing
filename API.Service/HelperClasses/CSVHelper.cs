@@ -40,11 +40,9 @@ namespace API.Service.HelperClasses
         }
         public static string[] ReadCSVFile(string csvToRead)
         {
-            string directory = AppDomain.CurrentDomain.BaseDirectory;
-
             try
             {
-                return File.ReadAllLines($"{directory}/{csvToRead}");
+                return File.ReadAllLines($"{csvToRead}");
             }
             catch (Exception ex)
             {

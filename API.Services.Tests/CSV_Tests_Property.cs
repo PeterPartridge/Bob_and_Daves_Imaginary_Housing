@@ -5,6 +5,8 @@ using API.Service.Interfaces;
 using Moq;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
 using Xunit;
 
 namespace API.Services.Tests
@@ -15,6 +17,10 @@ namespace API.Services.Tests
         public CSV_Tests_Property()
         {
             CSVAppSettings cSVApp = new CSVAppSettings();
+            string dirPath = Assembly.GetExecutingAssembly().Location;
+            dirPath = Path.GetDirectoryName(dirPath);
+            cSVApp.AddressCSVFilePath = $@"{dirPath}\OurAddresses.CSV";
+            cSVApp.PropertyCSVFilePath = $@"{dirPath}\OurPropertis.CSV";
             _findProperty = new CSVService(cSVApp);
         }
         [Fact]
@@ -25,7 +31,7 @@ namespace API.Services.Tests
         }
         [Fact]
         public void CSVService_GetBasePropertyUsingInccorectGUID_ReturnANull()
-        {         
+        {
             IBaseProperty result = _findProperty.GetBaseProperty(Guid.NewGuid());
             Assert.Null(result);
         }
@@ -35,6 +41,6 @@ namespace API.Services.Tests
             IEnumerable<IBaseProperty> results = _findProperty.GetBaseProperties();
             Assert.NotEmpty(results);
         }
-   
+
     }
 }

@@ -31,8 +31,10 @@ namespace APILibrary
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);           
             services.AddScoped<IBaseProperty, BaseProperty>();
             services.AddScoped<IFindAddress, CSVService>();
+            services.AddScoped<IFindProperty, CSVService>();
             //adding app details through dependancy injection           
             services.AddSingleton(Configuration.GetSection("CSVData").Get<CSVAppSettings>());
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -33,7 +33,7 @@ namespace APILibrary.Controllers
            return Ok(baseProperty);
         }
         [HttpGet(Name = "GetProperties")]
-        public ActionResult<IEnumerable<IBaseProperty>> GetAddresses()
+        public ActionResult<IEnumerable<IBaseProperty>> GetProperties()
         {
             IEnumerable<IBaseProperty> addresses = _findProperty.GetBaseProperties();
             if (addresses.Count() == 0)

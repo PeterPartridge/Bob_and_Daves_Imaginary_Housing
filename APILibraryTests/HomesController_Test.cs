@@ -5,17 +5,25 @@ using API.Service.Interfaces;
 using APILibrary.Controllers;
 using Microsoft.AspNetCore.Mvc;
 using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Reflection;
 using Xunit;
 
 namespace APILibraryTests
 {
-    public class GetHomes
+    public class HomesController_Test
     {
         private IFindProperty _findProperty;
-        public GetHomes()
+        public HomesController_Test()
         {
             CSVAppSettings cSVApp = new CSVAppSettings();
-            _findProperty = new CSVService(cSVApp );
+            string dirPath = Assembly.GetExecutingAssembly().Location;
+            dirPath = Path.GetDirectoryName(dirPath);
+            cSVApp.AddressCSVFilePath = $@"{dirPath}\OurAddresses.CSV";
+            cSVApp.PropertyCSVFilePath = $@"{dirPath}\OurPropertis.CSV";
+            _findProperty = new CSVService(cSVApp);
         }
 
         [Fact]
@@ -32,8 +40,17 @@ namespace APILibraryTests
         {
             HomesController homesController = new HomesController(_findProperty);
             var requestType = homesController.GetProperty(Guid.NewGuid());
-            BadRequestResult badRequest = requestType.Result as BadRequestResult;    
-            Assert.NotNull(badRequest);
+            BadRequestObjectResult badRequest = (BadRequestObjectResult) requestType.Result;    
+            Assert.True(badRequest.StatusCode == 400);
+        }
+        [Fact]
+        public void HomesController_GetPropertys_WillReturnThreeValues()
+        {
+            HomesController homesController = new HomesController(_findProperty);
+            var requestType = homesController.GetProperties();
+            OkObjectResult okRequest = requestType.Result as OkObjectResult;
+            IList<IBaseProperty> results = okRequest.Value as IList<IBaseProperty>;
+            Assert.True(results.Count() == 3);
         }
     }
 }

@@ -4,6 +4,8 @@ using API.Service;
 using API.Service.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
 using System.Text;
 using Xunit;
 
@@ -16,7 +18,10 @@ namespace API.Services.Tests
         public CSV_Test_Address()
         {
             CSVAppSettings cSVApp = new CSVAppSettings();
-            _findAddress = new CSVService(cSVApp);
+            string dirPath = Assembly.GetExecutingAssembly().Location;
+            dirPath = Path.GetDirectoryName(dirPath);
+            cSVApp.AddressCSVFilePath = $@"{dirPath}\OurAddresses.CSV";
+               _findAddress = new CSVService(cSVApp);
         }
 
         [Fact]
