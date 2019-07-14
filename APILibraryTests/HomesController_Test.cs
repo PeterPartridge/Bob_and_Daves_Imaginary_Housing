@@ -1,7 +1,6 @@
-using API.Objects.ConcreteClasses;
-using API.Objects.Interfaces;
+using API.SharedObjects.ConcreteClasses;
+using API.SharedObjects.Interfaces;
 using API.Service;
-using API.Service.Interfaces;
 using APILibrary.Controllers;
 using Microsoft.AspNetCore.Mvc;
 using System;

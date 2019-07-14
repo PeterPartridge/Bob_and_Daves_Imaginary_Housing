@@ -1,0 +1,14 @@
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\bin\Debug\netcoreapp2.2\API.SQLService.deps.json
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\bin\Debug\netcoreapp2.2\API.SQLService.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\bin\Debug\netcoreapp2.2\API.SQLService.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\bin\Debug\netcoreapp2.2\API.DataLayer.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\bin\Debug\netcoreapp2.2\API.SharedObjects.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\bin\Debug\netcoreapp2.2\API.SharedObjects.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\bin\Debug\netcoreapp2.2\API.DataLayer.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\obj\Debug\netcoreapp2.2\API.SQLService.csprojAssemblyReference.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\obj\Debug\netcoreapp2.2\API.SQLService.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\obj\Debug\netcoreapp2.2\API.SQLService.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\obj\Debug\netcoreapp2.2\API.SQLService.AssemblyInfo.cs
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\obj\Debug\netcoreapp2.2\API.SQLService.csproj.CopyComplete
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\obj\Debug\netcoreapp2.2\API.SQLService.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.SQLService\obj\Debug\netcoreapp2.2\API.SQLService.pdb

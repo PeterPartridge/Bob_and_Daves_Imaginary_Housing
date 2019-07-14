@@ -1,7 +1,6 @@
-﻿using API.Objects.ConcreteClasses;
-using API.Objects.Interfaces;
-using API.Service.HelperClasses;
-using API.Service.Interfaces;
+﻿using API.Service.HelperClasses;
+using API.SharedObjects.ConcreteClasses;
+using API.SharedObjects.Interfaces;
 using System;
 using System.Collections;
 using System.Collections.Generic;

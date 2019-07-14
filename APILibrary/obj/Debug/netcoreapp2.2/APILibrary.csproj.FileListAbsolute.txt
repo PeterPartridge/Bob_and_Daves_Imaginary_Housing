@@ -17,15 +17,19 @@ D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\APILi
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\APILibrary\obj\Debug\netcoreapp2.2\APILibrary.pdb
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.Service.dll
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.Service.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\CSVInfo\OurAddresses.CSV
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\CSVInfo\OurPropertis.CSV
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\APILibrary.deps.json
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\APILibrary.runtimeconfig.json
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\APILibrary.runtimeconfig.dev.json
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\APILibrary.dll
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\APILibrary.pdb
-D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.Objects.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.DataLayer.dll
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.Service.dll
-D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.Objects.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.SharedObjects.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.SharedObjects.pdb
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.Service.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\API.DataLayer.pdb
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\obj\Debug\netcoreapp2.2\APILibrary.csprojAssemblyReference.cache
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\obj\Debug\netcoreapp2.2\APILibrary.csproj.CoreCompileInputs.cache
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\obj\Debug\netcoreapp2.2\APILibrary.RazorAssemblyInfo.cache
@@ -36,5 +40,3 @@ D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_a
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\obj\Debug\netcoreapp2.2\APILibrary.csproj.CopyComplete
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\obj\Debug\netcoreapp2.2\APILibrary.dll
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\obj\Debug\netcoreapp2.2\APILibrary.pdb
-D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\CSVInfo\OurAddresses.CSV
-D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\APILibrary\bin\Debug\netcoreapp2.2\CSVInfo\OurPropertis.CSV

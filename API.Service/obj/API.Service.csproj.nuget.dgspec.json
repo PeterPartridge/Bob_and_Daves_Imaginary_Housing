@@ -4,12 +4,12 @@
     "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Service\\API.Service.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj": {
+    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.SharedObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj",
-        "projectName": "API.Objects",
-        "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj",
+        "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.SharedObjects.csproj",
+        "projectName": "API.SharedObjects",
+        "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.SharedObjects.csproj",
         "packagesPath": "C:\\Users\\PeterPlay\\.nuget\\packages\\",
         "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\obj\\",
         "projectStyle": "PackageReference",
@@ -82,8 +82,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj": {
-                "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.Objects.csproj"
+              "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.SharedObjects.csproj": {
+                "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.SharedObjects.csproj"
+              },
+              "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\API.DataLayer.csproj": {
+                "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\API.DataLayer.csproj"
               }
             }
           }
@@ -97,6 +100,66 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\API.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\API.DataLayer.csproj",
+        "projectName": "API.DataLayer",
+        "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\API.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\PeterPlay\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PeterPlay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.SharedObjects.csproj": {
+                "projectPath": "D:\\Documents\\Other\\coding\\ImagineryHousing\\Bob_and_Daves_Imaginary_Housing\\Bob_and_Daves_Imaginary_Housing\\API.Objects\\API.SharedObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",

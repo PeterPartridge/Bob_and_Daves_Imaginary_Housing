@@ -1,9 +1,9 @@
-﻿using API.Objects.Interfaces;
+﻿using API.SharedObjects.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace API.Objects.AbstractClasses
+namespace API.SharedObjects.AbstractClasses
 {
     public abstract class AbstractBaseProperty : IBaseProperty
     {

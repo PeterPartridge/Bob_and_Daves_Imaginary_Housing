@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using API.Objects.Interfaces;
-using API.Service.Interfaces;
+using API.SharedObjects.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APILibrary.Controllers

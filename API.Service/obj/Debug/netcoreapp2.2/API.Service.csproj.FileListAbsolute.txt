@@ -13,8 +13,10 @@ D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\API.S
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\bin\Debug\netcoreapp2.2\API.Service.deps.json
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\bin\Debug\netcoreapp2.2\API.Service.dll
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\bin\Debug\netcoreapp2.2\API.Service.pdb
-D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\bin\Debug\netcoreapp2.2\API.Objects.dll
-D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\bin\Debug\netcoreapp2.2\API.Objects.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\bin\Debug\netcoreapp2.2\API.DataLayer.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\bin\Debug\netcoreapp2.2\API.SharedObjects.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\bin\Debug\netcoreapp2.2\API.SharedObjects.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\bin\Debug\netcoreapp2.2\API.DataLayer.pdb
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\obj\Debug\netcoreapp2.2\API.Service.csprojAssemblyReference.cache
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\obj\Debug\netcoreapp2.2\API.Service.csproj.CoreCompileInputs.cache
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Service\obj\Debug\netcoreapp2.2\API.Service.AssemblyInfoInputs.cache

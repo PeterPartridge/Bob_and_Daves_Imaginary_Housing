@@ -1,9 +1,9 @@
-﻿using API.Objects.Interfaces;
+﻿using API.SharedObjects.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace API.Objects.ConcreteClasses
+namespace API.SharedObjects.ConcreteClasses
 {
     public class Address : IAddress
     {

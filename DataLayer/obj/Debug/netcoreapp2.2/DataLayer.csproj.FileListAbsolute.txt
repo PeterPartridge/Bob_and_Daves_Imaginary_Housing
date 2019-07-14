@@ -21,3 +21,5 @@ D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_a
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
 D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.json
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.dev.json

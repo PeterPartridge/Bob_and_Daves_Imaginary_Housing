@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace API.Objects.Interfaces
+namespace API.SharedObjects.Interfaces
 {
    public interface IAddress
     {

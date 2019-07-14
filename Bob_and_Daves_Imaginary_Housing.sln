@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILibrary", "APILibrary\APILibrary.csproj", "{3773BC84-6C29-4C26-B8F0-A155CAF136EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APILibrary", "APILibrary\APILibrary.csproj", "{3773BC84-6C29-4C26-B8F0-A155CAF136EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILibrary.Test", "APILibraryTests\APILibrary.Test.csproj", "{FCEDED1C-11E2-40AD-B84E-CD436F014C60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APILibrary.Test", "APILibraryTests\APILibrary.Test.csproj", "{FCEDED1C-11E2-40AD-B84E-CD436F014C60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Objects", "API.Objects\API.Objects.csproj", "{ABF1932E-DDB1-4318-9D06-44D9456C73F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.SharedObjects", "API.Objects\API.SharedObjects.csproj", "{ABF1932E-DDB1-4318-9D06-44D9456C73F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Service", "API.Service\API.Service.csproj", "{E614C7F8-0161-4DA8-AA30-C74AC106F091}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Service", "API.Service\API.Service.csproj", "{E614C7F8-0161-4DA8-AA30-C74AC106F091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{2DADB2F9-088E-4034-871F-E3D660BAA397}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.DataLayer", "DataLayer\API.DataLayer.csproj", "{2DADB2F9-088E-4034-871F-E3D660BAA397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Services.Tests", "API.Services.Tests\API.Services.Tests.csproj", "{85F47310-9379-4BA9-A214-0E8E88D79169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Services.Tests", "API.Services.Tests\API.Services.Tests.csproj", "{85F47310-9379-4BA9-A214-0E8E88D79169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.SQLService", "API.SQLService\API.SQLService.csproj", "{45554EE7-5248-4143-B8F7-17AD3159BF71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{85F47310-9379-4BA9-A214-0E8E88D79169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85F47310-9379-4BA9-A214-0E8E88D79169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85F47310-9379-4BA9-A214-0E8E88D79169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45554EE7-5248-4143-B8F7-17AD3159BF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45554EE7-5248-4143-B8F7-17AD3159BF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45554EE7-5248-4143-B8F7-17AD3159BF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45554EE7-5248-4143-B8F7-17AD3159BF71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

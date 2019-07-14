@@ -1,0 +1,8 @@
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\bin\Debug\netcoreapp2.2\API.SharedObjects.deps.json
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\bin\Debug\netcoreapp2.2\API.SharedObjects.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\bin\Debug\netcoreapp2.2\API.SharedObjects.pdb
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.SharedObjects.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.SharedObjects.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.SharedObjects.AssemblyInfo.cs
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.SharedObjects.dll
+D:\Documents\Other\coding\ImagineryHousing\Bob_and_Daves_Imaginary_Housing\Bob_and_Daves_Imaginary_Housing\API.Objects\obj\Debug\netcoreapp2.2\API.SharedObjects.pdb

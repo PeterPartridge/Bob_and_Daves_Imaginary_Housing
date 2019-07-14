@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace API.Objects.ConcreteClasses
+namespace API.SharedObjects.ConcreteClasses
 {
    public class CSVAppSettings 
     {

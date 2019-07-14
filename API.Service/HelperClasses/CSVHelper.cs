@@ -1,5 +1,5 @@
-﻿using API.Objects.ConcreteClasses;
-using API.Objects.Interfaces;
+﻿using API.SharedObjects.ConcreteClasses;
+using API.SharedObjects.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.IO;
